@@ -1,0 +1,541 @@
+mineral,tipo,pais,iso3,ano,producao,estimado
+Nióbio,Outros países,Outros,OUT,2008,483,Não
+Nióbio,Outros países,Outros,OUT,2009,530,Não
+Nióbio,Outros países,Outros,OUT,2010,520,Não
+Nióbio,Outros países,Outros,OUT,2011,732,Não
+Nióbio,Outros países,Outros,OUT,2012,375,Não
+Nióbio,Outros países,Outros,OUT,2013,1000,Não
+Nióbio,Outros países,Outros,OUT,2014,420,Não
+Nióbio,Outros países,Outros,OUT,2015,570,Não
+Nióbio,Outros países,Outros,OUT,2016,800,Não
+Nióbio,Outros países,Outros,OUT,2017,1410,Não
+Nióbio,Outros países,Outros,OUT,2018,1460,Não
+Nióbio,Outros países,Outros,OUT,2019,1250,Não
+Nióbio,Outros países,Outros,OUT,2020,1350,Não
+Nióbio,Outros países,Outros,OUT,2021,170,Não
+Nióbio,Outros países,Outros,OUT,2022,127,Não
+Nióbio,Outros países,Outros,OUT,2023,121,Não
+Nióbio,Outros países,Outros,OUT,2024,160,Não
+Nióbio,Outros países,Outros,OUT,2025,120,Sim
+Nióbio,País,Brasil,BRA,2008,58000,Não
+Nióbio,País,Brasil,BRA,2009,58000,Não
+Nióbio,País,Brasil,BRA,2010,58000,Não
+Nióbio,País,Brasil,BRA,2011,58000,Não
+Nióbio,País,Brasil,BRA,2012,45000,Não
+Nióbio,País,Brasil,BRA,2013,53100,Não
+Nióbio,País,Brasil,BRA,2014,50000,Não
+Nióbio,País,Brasil,BRA,2015,58000,Não
+Nióbio,País,Brasil,BRA,2016,57000,Não
+Nióbio,País,Brasil,BRA,2017,60700,Não
+Nióbio,País,Brasil,BRA,2018,59000,Não
+Nióbio,País,Brasil,BRA,2019,88900,Não
+Nióbio,País,Brasil,BRA,2020,59800,Não
+Nióbio,País,Brasil,BRA,2021,78700,Não
+Nióbio,País,Brasil,BRA,2022,75600,Não
+Nióbio,País,Brasil,BRA,2023,102000,Não
+Nióbio,País,Brasil,BRA,2024,104000,Não
+Nióbio,País,Brasil,BRA,2025,104000,Sim
+Nióbio,País,Canadá,CAN,2008,4380,Não
+Nióbio,País,Canadá,CAN,2009,4330,Não
+Nióbio,País,Canadá,CAN,2010,4420,Não
+Nióbio,País,Canadá,CAN,2011,4630,Não
+Nióbio,País,Canadá,CAN,2012,4710,Não
+Nióbio,País,Canadá,CAN,2013,5260,Não
+Nióbio,País,Canadá,CAN,2014,5480,Não
+Nióbio,País,Canadá,CAN,2015,5750,Não
+Nióbio,País,Canadá,CAN,2016,6100,Não
+Nióbio,País,Canadá,CAN,2017,6980,Não
+Nióbio,País,Canadá,CAN,2018,7700,Não
+Nióbio,País,Canadá,CAN,2019,6800,Não
+Nióbio,País,Canadá,CAN,2020,6500,Não
+Nióbio,País,Canadá,CAN,2021,7500,Não
+Nióbio,País,Canadá,CAN,2022,6700,Não
+Nióbio,País,Canadá,CAN,2023,6700,Não
+Nióbio,País,Canadá,CAN,2024,6900,Não
+Nióbio,País,Canadá,CAN,2025,6000,Sim
+Nióbio,País,China,CHN,2024,44,Não
+Nióbio,País,China,CHN,2025,40,Sim
+Nióbio,País,Estados Unidos,USA,2008,0,Não
+Nióbio,País,Estados Unidos,USA,2009,0,Não
+Nióbio,País,Estados Unidos,USA,2010,0,Não
+Nióbio,País,Estados Unidos,USA,2011,0,Não
+Nióbio,País,Estados Unidos,USA,2012,0,Não
+Nióbio,País,Estados Unidos,USA,2013,0,Não
+Nióbio,País,Estados Unidos,USA,2014,0,Não
+Nióbio,País,Estados Unidos,USA,2015,0,Não
+Nióbio,País,Estados Unidos,USA,2016,0,Não
+Nióbio,País,Estados Unidos,USA,2017,0,Não
+Nióbio,País,Estados Unidos,USA,2018,0,Não
+Nióbio,País,Estados Unidos,USA,2019,0,Não
+Nióbio,País,Estados Unidos,USA,2020,0,Não
+Nióbio,País,Estados Unidos,USA,2021,0,Não
+Nióbio,País,Estados Unidos,USA,2022,0,Não
+Nióbio,País,Estados Unidos,USA,2023,0,Não
+Nióbio,País,Estados Unidos,USA,2024,0,Não
+Nióbio,País,Estados Unidos,USA,2025,0,Sim
+Nióbio,País,RD Congo,COD,2021,580,Não
+Nióbio,País,RD Congo,COD,2022,710,Não
+Nióbio,País,RD Congo,COD,2023,740,Não
+Nióbio,País,RD Congo,COD,2024,930,Não
+Nióbio,País,RD Congo,COD,2025,970,Sim
+Nióbio,País,Ruanda,RWA,2021,158,Não
+Nióbio,País,Ruanda,RWA,2022,199,Não
+Nióbio,País,Ruanda,RWA,2023,210,Não
+Nióbio,País,Ruanda,RWA,2024,210,Não
+Nióbio,País,Ruanda,RWA,2025,200,Sim
+Nióbio,País,Rússia,RUS,2021,450,Não
+Nióbio,País,Rússia,RUS,2022,381,Não
+Nióbio,País,Rússia,RUS,2023,353,Não
+Nióbio,País,Rússia,RUS,2024,300,Não
+Nióbio,País,Rússia,RUS,2025,300,Sim
+Nióbio,Total mundial,Total mundial,WLD,2008,62900,Não
+Nióbio,Total mundial,Total mundial,WLD,2009,62900,Não
+Nióbio,Total mundial,Total mundial,WLD,2010,62900,Não
+Nióbio,Total mundial,Total mundial,WLD,2011,63400,Não
+Nióbio,Total mundial,Total mundial,WLD,2012,50100,Não
+Nióbio,Total mundial,Total mundial,WLD,2013,59400,Não
+Nióbio,Total mundial,Total mundial,WLD,2014,55900,Não
+Nióbio,Total mundial,Total mundial,WLD,2015,64300,Não
+Nióbio,Total mundial,Total mundial,WLD,2016,63900,Não
+Nióbio,Total mundial,Total mundial,WLD,2017,69100,Não
+Nióbio,Total mundial,Total mundial,WLD,2018,68200,Não
+Nióbio,Total mundial,Total mundial,WLD,2019,97000,Não
+Nióbio,Total mundial,Total mundial,WLD,2020,67700,Não
+Nióbio,Total mundial,Total mundial,WLD,2021,87600,Não
+Nióbio,Total mundial,Total mundial,WLD,2022,83700,Não
+Nióbio,Total mundial,Total mundial,WLD,2023,110000,Não
+Nióbio,Total mundial,Total mundial,WLD,2024,112000,Não
+Nióbio,Total mundial,Total mundial,WLD,2025,112000,Sim
+Terras raras,Outros países,Outros,OUT,2008,,Não
+Terras raras,Outros países,Outros,OUT,2009,,Não
+Terras raras,Outros países,Outros,OUT,2010,,Não
+Terras raras,Outros países,Outros,OUT,2011,,Não
+Terras raras,Outros países,Outros,OUT,2012,,Não
+Terras raras,Outros países,Outros,OUT,2013,,Não
+Terras raras,Outros países,Outros,OUT,2014,,Não
+Terras raras,Outros países,Outros,OUT,2017,0,Não
+Terras raras,Outros países,Outros,OUT,2018,60,Não
+Terras raras,Outros países,Outros,OUT,2019,66,Não
+Terras raras,Outros países,Outros,OUT,2020,100,Não
+Terras raras,Outros países,Outros,OUT,2021,60,Não
+Terras raras,Outros países,Outros,OUT,2023,1440,Não
+Terras raras,Outros países,Outros,OUT,2024,1000,Não
+Terras raras,Outros países,Outros,OUT,2025,550,Sim
+Terras raras,País,Austrália,AUS,2008,0,Não
+Terras raras,País,Austrália,AUS,2009,0,Não
+Terras raras,País,Austrália,AUS,2010,0,Não
+Terras raras,País,Austrália,AUS,2011,2200,Não
+Terras raras,País,Austrália,AUS,2012,3200,Não
+Terras raras,País,Austrália,AUS,2013,2000,Não
+Terras raras,País,Austrália,AUS,2014,8000,Não
+Terras raras,País,Austrália,AUS,2015,12000,Não
+Terras raras,País,Austrália,AUS,2016,15000,Não
+Terras raras,País,Austrália,AUS,2017,19000,Não
+Terras raras,País,Austrália,AUS,2018,21000,Não
+Terras raras,País,Austrália,AUS,2019,20000,Não
+Terras raras,País,Austrália,AUS,2020,21000,Não
+Terras raras,País,Austrália,AUS,2021,24000,Não
+Terras raras,País,Austrália,AUS,2022,18000,Não
+Terras raras,País,Austrália,AUS,2023,16000,Não
+Terras raras,País,Austrália,AUS,2024,29000,Não
+Terras raras,País,Austrália,AUS,2025,29000,Sim
+Terras raras,País,Brasil,BRA,2008,650,Não
+Terras raras,País,Brasil,BRA,2009,550,Não
+Terras raras,País,Brasil,BRA,2010,550,Não
+Terras raras,País,Brasil,BRA,2011,250,Não
+Terras raras,País,Brasil,BRA,2012,140,Não
+Terras raras,País,Brasil,BRA,2013,330,Não
+Terras raras,País,Brasil,BRA,2014,0,Não
+Terras raras,País,Brasil,BRA,2015,880,Não
+Terras raras,País,Brasil,BRA,2016,2200,Não
+Terras raras,País,Brasil,BRA,2017,1700,Não
+Terras raras,País,Brasil,BRA,2018,1100,Não
+Terras raras,País,Brasil,BRA,2019,710,Não
+Terras raras,País,Brasil,BRA,2020,600,Não
+Terras raras,País,Brasil,BRA,2021,500,Não
+Terras raras,País,Brasil,BRA,2022,80,Não
+Terras raras,País,Brasil,BRA,2023,140,Não
+Terras raras,País,Brasil,BRA,2024,560,Não
+Terras raras,País,Brasil,BRA,2025,2000,Sim
+Terras raras,País,Burundi,BDI,2017,0,Não
+Terras raras,País,Burundi,BDI,2018,630,Não
+Terras raras,País,Burundi,BDI,2019,200,Não
+Terras raras,País,Burundi,BDI,2020,300,Não
+Terras raras,País,Burundi,BDI,2021,200,Não
+Terras raras,País,Canadá,CAN,2015,0,Não
+Terras raras,País,Canadá,CAN,2016,0,Não
+Terras raras,País,Canadá,CAN,2018,0,Não
+Terras raras,País,Canadá,CAN,2019,0,Não
+Terras raras,País,Canadá,CAN,2020,0,Não
+Terras raras,País,Canadá,CAN,2021,0,Não
+Terras raras,País,Canadá,CAN,2022,0,Não
+Terras raras,País,Canadá,CAN,2023,0,Não
+Terras raras,País,Canadá,CAN,2024,0,Não
+Terras raras,País,Canadá,CAN,2025,0,Sim
+Terras raras,País,China,CHN,2008,120000,Não
+Terras raras,País,China,CHN,2009,129000,Não
+Terras raras,País,China,CHN,2010,130000,Não
+Terras raras,País,China,CHN,2011,105000,Não
+Terras raras,País,China,CHN,2012,100000,Não
+Terras raras,País,China,CHN,2013,95000,Não
+Terras raras,País,China,CHN,2014,105000,Não
+Terras raras,País,China,CHN,2015,105000,Não
+Terras raras,País,China,CHN,2016,105000,Não
+Terras raras,País,China,CHN,2017,105000,Não
+Terras raras,País,China,CHN,2018,120000,Não
+Terras raras,País,China,CHN,2019,132000,Não
+Terras raras,País,China,CHN,2020,140000,Não
+Terras raras,País,China,CHN,2021,168000,Não
+Terras raras,País,China,CHN,2022,210000,Não
+Terras raras,País,China,CHN,2023,255000,Não
+Terras raras,País,China,CHN,2024,270000,Não
+Terras raras,País,China,CHN,2025,270000,Sim
+Terras raras,País,Estados Unidos,USA,2008,0,Não
+Terras raras,País,Estados Unidos,USA,2009,0,Não
+Terras raras,País,Estados Unidos,USA,2010,0,Não
+Terras raras,País,Estados Unidos,USA,2011,0,Não
+Terras raras,País,Estados Unidos,USA,2012,800,Não
+Terras raras,País,Estados Unidos,USA,2013,5500,Não
+Terras raras,País,Estados Unidos,USA,2014,5400,Não
+Terras raras,País,Estados Unidos,USA,2015,5900,Não
+Terras raras,País,Estados Unidos,USA,2016,0,Não
+Terras raras,País,Estados Unidos,USA,2017,0,Não
+Terras raras,País,Estados Unidos,USA,2018,18000,Não
+Terras raras,País,Estados Unidos,USA,2019,28000,Não
+Terras raras,País,Estados Unidos,USA,2020,39000,Não
+Terras raras,País,Estados Unidos,USA,2021,42000,Não
+Terras raras,País,Estados Unidos,USA,2022,42000,Não
+Terras raras,País,Estados Unidos,USA,2023,41600,Não
+Terras raras,País,Estados Unidos,USA,2024,45500,Não
+Terras raras,País,Estados Unidos,USA,2025,51000,Sim
+Terras raras,País,Groenlândia,GRL,2015,0,Não
+Terras raras,País,Groenlândia,GRL,2016,0,Não
+Terras raras,País,Groenlândia,GRL,2018,0,Não
+Terras raras,País,Groenlândia,GRL,2019,0,Não
+Terras raras,País,Groenlândia,GRL,2020,0,Não
+Terras raras,País,Groenlândia,GRL,2021,0,Não
+Terras raras,País,Groenlândia,GRL,2022,0,Não
+Terras raras,País,Groenlândia,GRL,2023,0,Não
+Terras raras,País,Groenlândia,GRL,2024,0,Não
+Terras raras,País,Groenlândia,GRL,2025,0,Sim
+Terras raras,País,Madagascar,MDG,2018,2000,Não
+Terras raras,País,Madagascar,MDG,2019,4000,Não
+Terras raras,País,Madagascar,MDG,2020,2800,Não
+Terras raras,País,Madagascar,MDG,2021,6800,Não
+Terras raras,País,Madagascar,MDG,2022,960,Não
+Terras raras,País,Madagascar,MDG,2023,2100,Não
+Terras raras,País,Madagascar,MDG,2024,1400,Não
+Terras raras,País,Madagascar,MDG,2025,2700,Sim
+Terras raras,País,Malawi,MWI,2015,0,Não
+Terras raras,País,Malawi,MWI,2016,0,Não
+Terras raras,País,Malásia,MYS,2008,380,Não
+Terras raras,País,Malásia,MYS,2009,350,Não
+Terras raras,País,Malásia,MYS,2010,30,Não
+Terras raras,País,Malásia,MYS,2011,280,Não
+Terras raras,País,Malásia,MYS,2012,100,Não
+Terras raras,País,Malásia,MYS,2013,180,Não
+Terras raras,País,Malásia,MYS,2014,240,Não
+Terras raras,País,Malásia,MYS,2015,500,Não
+Terras raras,País,Malásia,MYS,2016,300,Não
+Terras raras,País,Malásia,MYS,2017,180,Não
+Terras raras,País,Malásia,MYS,2022,80,Não
+Terras raras,País,Malásia,MYS,2023,310,Não
+Terras raras,País,Malásia,MYS,2024,140,Não
+Terras raras,País,Malásia,MYS,2025,110,Sim
+Terras raras,País,Mianmar,MMR,2017,,Não
+Terras raras,País,Mianmar,MMR,2018,19000,Não
+Terras raras,País,Mianmar,MMR,2019,25000,Não
+Terras raras,País,Mianmar,MMR,2020,31000,Não
+Terras raras,País,Mianmar,MMR,2021,35000,Não
+Terras raras,País,Mianmar,MMR,2022,12000,Não
+Terras raras,País,Mianmar,MMR,2023,43000,Não
+Terras raras,País,Mianmar,MMR,2024,27000,Não
+Terras raras,País,Mianmar,MMR,2025,22000,Sim
+Terras raras,País,Nigéria,NGA,2023,7200,Não
+Terras raras,País,Nigéria,NGA,2024,1500,Não
+Terras raras,País,Nigéria,NGA,2025,1500,Sim
+Terras raras,País,Rússia,RUS,2015,2800,Não
+Terras raras,País,Rússia,RUS,2016,2800,Não
+Terras raras,País,Rússia,RUS,2017,2600,Não
+Terras raras,País,Rússia,RUS,2018,2700,Não
+Terras raras,País,Rússia,RUS,2019,2700,Não
+Terras raras,País,Rússia,RUS,2020,2700,Não
+Terras raras,País,Rússia,RUS,2021,2600,Não
+Terras raras,País,Rússia,RUS,2022,2600,Não
+Terras raras,País,Rússia,RUS,2023,2500,Não
+Terras raras,País,Rússia,RUS,2024,2600,Não
+Terras raras,País,Rússia,RUS,2025,2600,Sim
+Terras raras,País,Tailândia,THA,2013,800,Não
+Terras raras,País,Tailândia,THA,2014,2100,Não
+Terras raras,País,Tailândia,THA,2015,760,Não
+Terras raras,País,Tailândia,THA,2016,1600,Não
+Terras raras,País,Tailândia,THA,2017,1300,Não
+Terras raras,País,Tailândia,THA,2018,1000,Não
+Terras raras,País,Tailândia,THA,2019,1900,Não
+Terras raras,País,Tailândia,THA,2020,3600,Não
+Terras raras,País,Tailândia,THA,2021,8200,Não
+Terras raras,País,Tailândia,THA,2022,7100,Não
+Terras raras,País,Tailândia,THA,2023,3600,Não
+Terras raras,País,Tailândia,THA,2024,2100,Não
+Terras raras,País,Tailândia,THA,2025,4800,Sim
+Terras raras,País,Tanzânia,TZA,2018,0,Não
+Terras raras,País,Tanzânia,TZA,2019,0,Não
+Terras raras,País,Tanzânia,TZA,2020,0,Não
+Terras raras,País,Tanzânia,TZA,2021,0,Não
+Terras raras,País,Tanzânia,TZA,2022,0,Não
+Terras raras,País,Tanzânia,TZA,2023,0,Não
+Terras raras,País,Tanzânia,TZA,2024,0,Não
+Terras raras,País,Tanzânia,TZA,2025,0,Sim
+Terras raras,País,Vietnã,VNM,2015,250,Não
+Terras raras,País,Vietnã,VNM,2016,220,Não
+Terras raras,País,Vietnã,VNM,2017,200,Não
+Terras raras,País,Vietnã,VNM,2018,920,Não
+Terras raras,País,Vietnã,VNM,2019,1300,Não
+Terras raras,País,Vietnã,VNM,2020,700,Não
+Terras raras,País,Vietnã,VNM,2021,400,Não
+Terras raras,País,Vietnã,VNM,2022,1200,Não
+Terras raras,País,Vietnã,VNM,2023,300,Não
+Terras raras,País,Vietnã,VNM,2024,300,Não
+Terras raras,País,Vietnã,VNM,2025,150,Sim
+Terras raras,País,África do Sul,ZAF,2015,0,Não
+Terras raras,País,África do Sul,ZAF,2016,0,Não
+Terras raras,País,África do Sul,ZAF,2018,0,Não
+Terras raras,País,África do Sul,ZAF,2019,0,Não
+Terras raras,País,África do Sul,ZAF,2020,0,Não
+Terras raras,País,África do Sul,ZAF,2021,0,Não
+Terras raras,País,África do Sul,ZAF,2022,0,Não
+Terras raras,País,África do Sul,ZAF,2023,0,Não
+Terras raras,País,África do Sul,ZAF,2024,0,Não
+Terras raras,País,África do Sul,ZAF,2025,0,Sim
+Terras raras,País,Índia,IND,2008,2700,Não
+Terras raras,País,Índia,IND,2009,2700,Não
+Terras raras,País,Índia,IND,2010,2800,Não
+Terras raras,País,Índia,IND,2011,2800,Não
+Terras raras,País,Índia,IND,2012,2900,Não
+Terras raras,País,Índia,IND,2013,2900,Não
+Terras raras,País,Índia,IND,2014,,Não
+Terras raras,País,Índia,IND,2015,1700,Não
+Terras raras,País,Índia,IND,2016,1500,Não
+Terras raras,País,Índia,IND,2017,1800,Não
+Terras raras,País,Índia,IND,2018,2900,Não
+Terras raras,País,Índia,IND,2019,2900,Não
+Terras raras,País,Índia,IND,2020,2900,Não
+Terras raras,País,Índia,IND,2021,2900,Não
+Terras raras,País,Índia,IND,2022,2900,Não
+Terras raras,País,Índia,IND,2023,2900,Não
+Terras raras,País,Índia,IND,2024,2900,Não
+Terras raras,País,Índia,IND,2025,2900,Sim
+Terras raras,Total mundial,Total mundial,WLD,2008,124000,Não
+Terras raras,Total mundial,Total mundial,WLD,2009,133000,Não
+Terras raras,Total mundial,Total mundial,WLD,2010,133000,Não
+Terras raras,Total mundial,Total mundial,WLD,2011,111000,Não
+Terras raras,Total mundial,Total mundial,WLD,2012,110000,Não
+Terras raras,Total mundial,Total mundial,WLD,2013,110000,Não
+Terras raras,Total mundial,Total mundial,WLD,2014,123000,Não
+Terras raras,Total mundial,Total mundial,WLD,2015,130000,Não
+Terras raras,Total mundial,Total mundial,WLD,2016,129000,Não
+Terras raras,Total mundial,Total mundial,WLD,2017,132000,Não
+Terras raras,Total mundial,Total mundial,WLD,2018,190000,Não
+Terras raras,Total mundial,Total mundial,WLD,2019,220000,Não
+Terras raras,Total mundial,Total mundial,WLD,2020,240000,Não
+Terras raras,Total mundial,Total mundial,WLD,2021,290000,Não
+Terras raras,Total mundial,Total mundial,WLD,2022,300000,Não
+Terras raras,Total mundial,Total mundial,WLD,2023,376000,Não
+Terras raras,Total mundial,Total mundial,WLD,2024,380000,Não
+Terras raras,Total mundial,Total mundial,WLD,2025,390000,Sim
+Tântalo,Outros países,Outros,OUT,2008,188,Não
+Tântalo,Outros países,Outros,OUT,2009,162,Não
+Tântalo,Outros países,Outros,OUT,2010,271,Não
+Tântalo,Outros países,Outros,OUT,2014,140,Não
+Tântalo,Outros países,Outros,OUT,2015,117,Não
+Tântalo,Outros países,Outros,OUT,2016,45,Não
+Tântalo,Outros países,Outros,OUT,2017,83,Não
+Tântalo,Outros países,Outros,OUT,2018,40,Não
+Tântalo,Outros países,Outros,OUT,2019,45,Não
+Tântalo,Outros países,Outros,OUT,2022,120,Não
+Tântalo,País,Austrália,AUS,2008,557,Não
+Tântalo,País,Austrália,AUS,2009,81,Não
+Tântalo,País,Austrália,AUS,2010,0,Não
+Tântalo,País,Austrália,AUS,2011,0,Não
+Tântalo,País,Austrália,AUS,2012,0,Não
+Tântalo,País,Austrália,AUS,2013,0,Não
+Tântalo,País,Austrália,AUS,2014,50,Não
+Tântalo,País,Austrália,AUS,2015,,Não
+Tântalo,País,Austrália,AUS,2016,,Não
+Tântalo,País,Austrália,AUS,2017,83,Não
+Tântalo,País,Austrália,AUS,2018,23,Não
+Tântalo,País,Austrália,AUS,2019,67,Não
+Tântalo,País,Austrália,AUS,2020,34,Não
+Tântalo,País,Austrália,AUS,2021,44,Não
+Tântalo,País,Austrália,AUS,2022,46,Não
+Tântalo,País,Austrália,AUS,2023,44,Não
+Tântalo,País,Austrália,AUS,2024,52,Não
+Tântalo,País,Austrália,AUS,2025,50,Sim
+Tântalo,País,Bolívia,BOL,2020,7,Não
+Tântalo,País,Bolívia,BOL,2021,1,Não
+Tântalo,País,Bolívia,BOL,2023,1,Não
+Tântalo,País,Bolívia,BOL,2024,2,Não
+Tântalo,País,Bolívia,BOL,2025,2,Sim
+Tântalo,País,Brasil,BRA,2008,180,Não
+Tântalo,País,Brasil,BRA,2009,180,Não
+Tântalo,País,Brasil,BRA,2010,180,Não
+Tântalo,País,Brasil,BRA,2011,180,Não
+Tântalo,País,Brasil,BRA,2012,140,Não
+Tântalo,País,Brasil,BRA,2013,98,Não
+Tântalo,País,Brasil,BRA,2014,150,Não
+Tântalo,País,Brasil,BRA,2015,115,Não
+Tântalo,País,Brasil,BRA,2016,103,Não
+Tântalo,País,Brasil,BRA,2017,110,Não
+Tântalo,País,Brasil,BRA,2018,250,Não
+Tântalo,País,Brasil,BRA,2019,430,Não
+Tântalo,País,Brasil,BRA,2020,470,Não
+Tântalo,País,Brasil,BRA,2021,360,Não
+Tântalo,País,Brasil,BRA,2022,370,Não
+Tântalo,País,Brasil,BRA,2023,138,Não
+Tântalo,País,Brasil,BRA,2024,210,Não
+Tântalo,País,Brasil,BRA,2025,190,Sim
+Tântalo,País,Burundi,BDI,2011,13,Não
+Tântalo,País,Burundi,BDI,2012,33,Não
+Tântalo,País,Burundi,BDI,2013,20,Não
+Tântalo,País,Burundi,BDI,2018,23,Não
+Tântalo,País,Burundi,BDI,2019,38,Não
+Tântalo,País,Burundi,BDI,2020,24,Não
+Tântalo,País,Burundi,BDI,2021,39,Não
+Tântalo,País,Burundi,BDI,2022,59,Não
+Tântalo,País,Burundi,BDI,2023,1,Não
+Tântalo,País,Burundi,BDI,2024,2,Não
+Tântalo,País,Burundi,BDI,2025,2,Sim
+Tântalo,País,Canadá,CAN,2008,40,Não
+Tântalo,País,Canadá,CAN,2009,25,Não
+Tântalo,País,Canadá,CAN,2010,0,Não
+Tântalo,País,Canadá,CAN,2011,0,Não
+Tântalo,País,Canadá,CAN,2012,50,Não
+Tântalo,País,Canadá,CAN,2013,5,Não
+Tântalo,País,China,CHN,2013,60,Não
+Tântalo,País,China,CHN,2014,60,Não
+Tântalo,País,China,CHN,2015,60,Não
+Tântalo,País,China,CHN,2016,94,Não
+Tântalo,País,China,CHN,2017,110,Não
+Tântalo,País,China,CHN,2018,90,Não
+Tântalo,País,China,CHN,2019,76,Não
+Tântalo,País,China,CHN,2020,74,Não
+Tântalo,País,China,CHN,2021,76,Não
+Tântalo,País,China,CHN,2022,78,Não
+Tântalo,País,China,CHN,2023,78,Não
+Tântalo,País,China,CHN,2024,76,Não
+Tântalo,País,China,CHN,2025,80,Sim
+Tântalo,País,Estados Unidos,USA,2008,0,Não
+Tântalo,País,Estados Unidos,USA,2009,0,Não
+Tântalo,País,Estados Unidos,USA,2010,0,Não
+Tântalo,País,Estados Unidos,USA,2011,0,Não
+Tântalo,País,Estados Unidos,USA,2012,0,Não
+Tântalo,País,Estados Unidos,USA,2013,0,Não
+Tântalo,País,Estados Unidos,USA,2014,0,Não
+Tântalo,País,Estados Unidos,USA,2015,0,Não
+Tântalo,País,Estados Unidos,USA,2016,0,Não
+Tântalo,País,Estados Unidos,USA,2017,0,Não
+Tântalo,País,Estados Unidos,USA,2018,0,Não
+Tântalo,País,Estados Unidos,USA,2019,0,Não
+Tântalo,País,Estados Unidos,USA,2020,0,Não
+Tântalo,País,Estados Unidos,USA,2021,0,Não
+Tântalo,País,Estados Unidos,USA,2022,0,Não
+Tântalo,País,Estados Unidos,USA,2023,0,Não
+Tântalo,País,Estados Unidos,USA,2024,0,Não
+Tântalo,País,Estados Unidos,USA,2025,0,Sim
+Tântalo,País,Etiópia,ETH,2011,76,Não
+Tântalo,País,Etiópia,ETH,2012,95,Não
+Tântalo,País,Etiópia,ETH,2013,8,Não
+Tântalo,País,Etiópia,ETH,2016,63,Não
+Tântalo,País,Etiópia,ETH,2017,65,Não
+Tântalo,País,Etiópia,ETH,2018,70,Não
+Tântalo,País,Etiópia,ETH,2019,70,Não
+Tântalo,País,Etiópia,ETH,2020,69,Não
+Tântalo,País,Etiópia,ETH,2021,32,Não
+Tântalo,País,Etiópia,ETH,2023,40,Não
+Tântalo,País,Etiópia,ETH,2024,40,Não
+Tântalo,País,Etiópia,ETH,2025,40,Sim
+Tântalo,País,Moçambique,MOZ,2009,113,Não
+Tântalo,País,Moçambique,MOZ,2010,120,Não
+Tântalo,País,Moçambique,MOZ,2011,260,Não
+Tântalo,País,Moçambique,MOZ,2012,39,Não
+Tântalo,País,Moçambique,MOZ,2013,115,Não
+Tântalo,País,Moçambique,MOZ,2020,43,Não
+Tântalo,País,Moçambique,MOZ,2021,37,Não
+Tântalo,País,Moçambique,MOZ,2023,51,Não
+Tântalo,País,Moçambique,MOZ,2024,55,Não
+Tântalo,País,Moçambique,MOZ,2025,1,Sim
+Tântalo,País,Nigéria,NGA,2011,50,Não
+Tântalo,País,Nigéria,NGA,2012,63,Não
+Tântalo,País,Nigéria,NGA,2013,60,Não
+Tântalo,País,Nigéria,NGA,2016,192,Não
+Tântalo,País,Nigéria,NGA,2017,153,Não
+Tântalo,País,Nigéria,NGA,2018,200,Não
+Tântalo,País,Nigéria,NGA,2019,180,Não
+Tântalo,País,Nigéria,NGA,2020,260,Não
+Tântalo,País,Nigéria,NGA,2021,110,Não
+Tântalo,País,Nigéria,NGA,2022,110,Não
+Tântalo,País,Nigéria,NGA,2023,390,Não
+Tântalo,País,Nigéria,NGA,2024,390,Não
+Tântalo,País,Nigéria,NGA,2025,390,Sim
+Tântalo,País,RD Congo,COD,2008,100,Não
+Tântalo,País,RD Congo,COD,2011,95,Não
+Tântalo,País,RD Congo,COD,2012,100,Não
+Tântalo,País,RD Congo,COD,2013,200,Não
+Tântalo,País,RD Congo,COD,2014,200,Não
+Tântalo,País,RD Congo,COD,2015,350,Não
+Tântalo,País,RD Congo,COD,2016,370,Não
+Tântalo,País,RD Congo,COD,2017,760,Não
+Tântalo,País,RD Congo,COD,2018,740,Não
+Tântalo,País,RD Congo,COD,2019,580,Não
+Tântalo,País,RD Congo,COD,2020,780,Não
+Tântalo,País,RD Congo,COD,2021,790,Não
+Tântalo,País,RD Congo,COD,2022,890,Não
+Tântalo,País,RD Congo,COD,2023,920,Não
+Tântalo,País,RD Congo,COD,2024,1270,Não
+Tântalo,País,RD Congo,COD,2025,1300,Sim
+Tântalo,País,Ruanda,RWA,2008,100,Não
+Tântalo,País,Ruanda,RWA,2009,104,Não
+Tântalo,País,Ruanda,RWA,2010,110,Não
+Tântalo,País,Ruanda,RWA,2011,93,Não
+Tântalo,País,Ruanda,RWA,2012,150,Não
+Tântalo,País,Ruanda,RWA,2013,600,Não
+Tântalo,País,Ruanda,RWA,2014,600,Não
+Tântalo,País,Ruanda,RWA,2015,410,Não
+Tântalo,País,Ruanda,RWA,2016,350,Não
+Tântalo,País,Ruanda,RWA,2017,441,Não
+Tântalo,País,Ruanda,RWA,2018,421,Não
+Tântalo,País,Ruanda,RWA,2019,336,Não
+Tântalo,País,Ruanda,RWA,2020,254,Não
+Tântalo,País,Ruanda,RWA,2021,269,Não
+Tântalo,País,Ruanda,RWA,2022,347,Não
+Tântalo,País,Ruanda,RWA,2023,350,Não
+Tântalo,País,Ruanda,RWA,2024,374,Não
+Tântalo,País,Ruanda,RWA,2025,400,Sim
+Tântalo,País,Rússia,RUS,2018,38,Não
+Tântalo,País,Rússia,RUS,2019,26,Não
+Tântalo,País,Rússia,RUS,2020,49,Não
+Tântalo,País,Rússia,RUS,2021,39,Não
+Tântalo,País,Rússia,RUS,2022,31,Não
+Tântalo,País,Rússia,RUS,2023,23,Não
+Tântalo,País,Rússia,RUS,2024,29,Não
+Tântalo,País,Rússia,RUS,2025,30,Sim
+Tântalo,País,Uganda,UGA,2020,38,Não
+Tântalo,País,Uganda,UGA,2021,38,Não
+Tântalo,Total mundial,Total mundial,WLD,2008,1170,Não
+Tântalo,Total mundial,Total mundial,WLD,2009,665,Não
+Tântalo,Total mundial,Total mundial,WLD,2010,681,Não
+Tântalo,Total mundial,Total mundial,WLD,2011,767,Não
+Tântalo,Total mundial,Total mundial,WLD,2012,670,Não
+Tântalo,Total mundial,Total mundial,WLD,2013,1170,Não
+Tântalo,Total mundial,Total mundial,WLD,2014,1200,Não
+Tântalo,Total mundial,Total mundial,WLD,2015,1100,Não
+Tântalo,Total mundial,Total mundial,WLD,2016,1220,Não
+Tântalo,Total mundial,Total mundial,WLD,2017,1810,Não
+Tântalo,Total mundial,Total mundial,WLD,2018,1890,Não
+Tântalo,Total mundial,Total mundial,WLD,2019,1850,Não
+Tântalo,Total mundial,Total mundial,WLD,2020,2100,Não
+Tântalo,Total mundial,Total mundial,WLD,2021,1840,Não
+Tântalo,Total mundial,Total mundial,WLD,2022,1990,Não
+Tântalo,Total mundial,Total mundial,WLD,2023,2040,Não
+Tântalo,Total mundial,Total mundial,WLD,2024,2500,Não
+Tântalo,Total mundial,Total mundial,WLD,2025,2500,Sim

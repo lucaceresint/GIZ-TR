@@ -1,0 +1,211 @@
+mineral,unidade,pais,tipo,ano,valor,fonte,alerta
+Terras raras,t REO,Australia,País,2020,19440,r,
+Terras raras,t REO,Australia,País,2021,21970,r,
+Terras raras,t REO,Australia,País,2022,17660,r,
+Terras raras,t REO,Australia,País,2023,20280,r,
+Terras raras,t REO,Australia,País,2024,20100,r,
+Terras raras,t REO,Brazil,País,2020,450,r,
+Terras raras,t REO,Brazil,País,2021,580,r,
+Terras raras,t REO,Brazil,País,2022,1580,r,
+Terras raras,t REO,Brazil,País,2023,1280,r,
+Terras raras,t REO,Brazil,País,2024,390,r,
+Terras raras,t REO,Burundi,País,2020,296,r,
+Terras raras,t REO,Burundi,País,2021,134,r,
+Terras raras,t REO,Burundi,País,2022,0,r,
+Terras raras,t REO,Burundi,País,2023,0,r,
+Terras raras,t REO,Burundi,País,2024,14,r,
+Terras raras,t REO,China,País,2020,140000,r,
+Terras raras,t REO,China,País,2021,168000,r,
+Terras raras,t REO,China,País,2022,210000,r,
+Terras raras,t REO,China,País,2023,255000,r,
+Terras raras,t REO,China,País,2024,270000,r,
+Terras raras,t REO,India,País,2020,2500,e,Informativo: valor estimado (e)
+Terras raras,t REO,India,País,2021,2000,e,Informativo: valor estimado (e)
+Terras raras,t REO,India,País,2022,2600,e,Informativo: valor estimado (e)
+Terras raras,t REO,India,País,2023,2600,e,Informativo: valor estimado (e)
+Terras raras,t REO,India,País,2024,2500,e,Informativo: valor estimado (e)
+Terras raras,t REO,Laos,País,2020,,r,
+Terras raras,t REO,Laos,País,2021,0,r,
+Terras raras,t REO,Laos,País,2022,150,r,
+Terras raras,t REO,Laos,País,2023,5360,r,
+Terras raras,t REO,Laos,País,2024,4130,r,
+Terras raras,t REO,Madagascar,País,2020,4300,e,Informativo: valor estimado (e)
+Terras raras,t REO,Madagascar,País,2021,3900,e,Informativo: valor estimado (e)
+Terras raras,t REO,Madagascar,País,2022,3500,e,Informativo: valor estimado (e)
+Terras raras,t REO,Madagascar,País,2023,4500,e,Informativo: valor estimado (e)
+Terras raras,t REO,Madagascar,País,2024,4000,e,Informativo: valor estimado (e)
+Terras raras,t REO,Malaysia,País,2020,10,r,
+Terras raras,t REO,Malaysia,País,2021,30,r,
+Terras raras,t REO,Malaysia,País,2022,270,r,
+Terras raras,t REO,Malaysia,País,2023,3340,r,
+Terras raras,t REO,Malaysia,País,2024,5120,r,
+Terras raras,t REO,Myanmar,País,2020,21000,r,
+Terras raras,t REO,Myanmar,País,2021,27100,r,
+Terras raras,t REO,Myanmar,País,2022,17550,r,
+Terras raras,t REO,Myanmar,País,2023,56850,r,
+Terras raras,t REO,Myanmar,País,2024,39400,r,
+Terras raras,t REO,Nigeria,País,2020,30,e,Informativo: valor estimado (e)
+Terras raras,t REO,Nigeria,País,2021,100,e,Informativo: valor estimado (e)
+Terras raras,t REO,Nigeria,País,2022,380,e,Informativo: valor estimado (e)
+Terras raras,t REO,Nigeria,País,2023,390,e,Informativo: valor estimado (e)
+Terras raras,t REO,Nigeria,País,2024,4000,e,Informativo: valor estimado (e)
+Terras raras,t REO,Russia,País,2020,2663,r,
+Terras raras,t REO,Russia,País,2021,2276,r,
+Terras raras,t REO,Russia,País,2022,2038,r,
+Terras raras,t REO,Russia,País,2023,1964,r,
+Terras raras,t REO,Russia,País,2024,1761,r,
+Terras raras,t REO,United States,País,2020,38503,r,
+Terras raras,t REO,United States,País,2021,42413,r,
+Terras raras,t REO,United States,País,2022,42499,r,
+Terras raras,t REO,United States,País,2023,41557,r,
+Terras raras,t REO,United States,País,2024,45493,r,
+Terras raras,t REO,Vietnam,País,2020,700,e,Informativo: valor estimado (e)
+Terras raras,t REO,Vietnam,País,2021,1000,e,Informativo: valor estimado (e)
+Terras raras,t REO,Vietnam,País,2022,1300,e,Informativo: valor estimado (e)
+Terras raras,t REO,Vietnam,País,2023,1100,e,Informativo: valor estimado (e)
+Terras raras,t REO,Vietnam,País,2024,1100,e,Informativo: valor estimado (e)
+Terras raras,t REO,Total mundial,Total mundial,2020,229892,,
+Terras raras,t REO,Total mundial,Total mundial,2021,269503,,
+Terras raras,t REO,Total mundial,Total mundial,2022,299527,,
+Terras raras,t REO,Total mundial,Total mundial,2023,394221,,
+Terras raras,t REO,Total mundial,Total mundial,2024,398008,,
+Nióbio,t Nb2O5,Brazil,País,2020,85572,r,
+Nióbio,t Nb2O5,Brazil,País,2021,112755,r,
+Nióbio,t Nb2O5,Brazil,País,2022,109287,r,
+Nióbio,t Nb2O5,Brazil,País,2023,109578,r,
+Nióbio,t Nb2O5,Brazil,País,2024,113903,r,
+Nióbio,t Nb2O5,Burundi,País,2020,4,r,
+Nióbio,t Nb2O5,Burundi,País,2021,10,r,
+Nióbio,t Nb2O5,Burundi,País,2022,3,r,
+Nióbio,t Nb2O5,Burundi,País,2023,1,r,
+Nióbio,t Nb2O5,Burundi,País,2024,1,r,
+Nióbio,t Nb2O5,Canada,País,2020,6400,e,Informativo: valor estimado (e)
+Nióbio,t Nb2O5,Canada,País,2021,7650,e,Informativo: valor estimado (e)
+Nióbio,t Nb2O5,Canada,País,2022,6800,e,Informativo: valor estimado (e)
+Nióbio,t Nb2O5,Canada,País,2023,6700,e,Informativo: valor estimado (e)
+Nióbio,t Nb2O5,Canada,País,2024,6900,e,Informativo: valor estimado (e)
+Nióbio,t Nb2O5,China,País,2020,30,e,Informativo: valor estimado (e)
+Nióbio,t Nb2O5,China,País,2021,30,e,Informativo: valor estimado (e)
+Nióbio,t Nb2O5,China,País,2022,40,e,Informativo: valor estimado (e)
+Nióbio,t Nb2O5,China,País,2023,43,e,Informativo: valor estimado (e)
+Nióbio,t Nb2O5,China,País,2024,45,e,Informativo: valor estimado (e)
+Nióbio,t Nb2O5,"Congo, D.R.",País,2020,565,r,
+Nióbio,t Nb2O5,"Congo, D.R.",País,2021,810,r,
+Nióbio,t Nb2O5,"Congo, D.R.",País,2022,1030,r,
+Nióbio,t Nb2O5,"Congo, D.R.",País,2023,810,r,
+Nióbio,t Nb2O5,"Congo, D.R.",País,2024,1280,r,
+Nióbio,t Nb2O5,Ethiopia,País,2020,11,r,
+Nióbio,t Nb2O5,Ethiopia,País,2021,18,r,
+Nióbio,t Nb2O5,Ethiopia,País,2022,25,r,
+Nióbio,t Nb2O5,Ethiopia,País,2023,35,r,
+Nióbio,t Nb2O5,Ethiopia,País,2024,60,r,
+Nióbio,t Nb2O5,Mozambique,País,2020,17,r,
+Nióbio,t Nb2O5,Mozambique,País,2021,14,r,
+Nióbio,t Nb2O5,Mozambique,País,2022,17,r,
+Nióbio,t Nb2O5,Mozambique,País,2023,16,r,
+Nióbio,t Nb2O5,Mozambique,País,2024,11,r,
+Nióbio,t Nb2O5,Nigeria,País,2020,80,e,Informativo: valor estimado (e)
+Nióbio,t Nb2O5,Nigeria,País,2021,140,e,Informativo: valor estimado (e)
+Nióbio,t Nb2O5,Nigeria,País,2022,145,e,Informativo: valor estimado (e)
+Nióbio,t Nb2O5,Nigeria,País,2023,185,e,Informativo: valor estimado (e)
+Nióbio,t Nb2O5,Nigeria,País,2024,190,e,Informativo: valor estimado (e)
+Nióbio,t Nb2O5,Russia,País,2020,617,r,
+Nióbio,t Nb2O5,Russia,País,2021,648,r,
+Nióbio,t Nb2O5,Russia,País,2022,549,r,
+Nióbio,t Nb2O5,Russia,País,2023,505,r,
+Nióbio,t Nb2O5,Russia,País,2024,456,r,
+Nióbio,t Nb2O5,Rwanda,País,2020,160,r,
+Nióbio,t Nb2O5,Rwanda,País,2021,160,r,
+Nióbio,t Nb2O5,Rwanda,País,2022,195,r,
+Nióbio,t Nb2O5,Rwanda,País,2023,310,r,
+Nióbio,t Nb2O5,Rwanda,País,2024,360,r,
+Nióbio,t Nb2O5,Uganda,País,2020,52,r,
+Nióbio,t Nb2O5,Uganda,País,2021,9,r,
+Nióbio,t Nb2O5,Uganda,País,2022,0,r,
+Nióbio,t Nb2O5,Uganda,País,2023,0,r,
+Nióbio,t Nb2O5,Uganda,País,2024,0,r,
+Nióbio,t Nb2O5,Total mundial,Total mundial,2020,93508,,
+Nióbio,t Nb2O5,Total mundial,Total mundial,2021,122244,,
+Nióbio,t Nb2O5,Total mundial,Total mundial,2022,118091,,
+Nióbio,t Nb2O5,Total mundial,Total mundial,2023,118183,,
+Nióbio,t Nb2O5,Total mundial,Total mundial,2024,123206,,
+Tântalo,t Ta2O5,Australia,País,2020,50,r,
+Tântalo,t Ta2O5,Australia,País,2021,70,r,
+Tântalo,t Ta2O5,Australia,País,2022,60,r,
+Tântalo,t Ta2O5,Australia,País,2023,50,r,
+Tântalo,t Ta2O5,Australia,País,2024,70,r,
+Tântalo,t Ta2O5,Bolivia,País,2020,8,r,
+Tântalo,t Ta2O5,Bolivia,País,2021,1,r,
+Tântalo,t Ta2O5,Bolivia,País,2022,3,r,
+Tântalo,t Ta2O5,Bolivia,País,2023,1,r,
+Tântalo,t Ta2O5,Bolivia,País,2024,4,r,
+Tântalo,t Ta2O5,Brazil,País,2020,300,r,
+Tântalo,t Ta2O5,Brazil,País,2021,350,r,
+Tântalo,t Ta2O5,Brazil,País,2022,350,r,
+Tântalo,t Ta2O5,Brazil,País,2023,380,r,
+Tântalo,t Ta2O5,Brazil,País,2024,400,r,
+Tântalo,t Ta2O5,Burundi,País,2020,6,r,
+Tântalo,t Ta2O5,Burundi,País,2021,15,r,
+Tântalo,t Ta2O5,Burundi,País,2022,5,r,
+Tântalo,t Ta2O5,Burundi,País,2023,2,r,
+Tântalo,t Ta2O5,Burundi,País,2024,1,r,
+Tântalo,t Ta2O5,China,País,2020,180,e,Informativo: valor estimado (e)
+Tântalo,t Ta2O5,China,País,2021,180,e,Informativo: valor estimado (e)
+Tântalo,t Ta2O5,China,País,2022,92,e,Informativo: valor estimado (e)
+Tântalo,t Ta2O5,China,País,2023,96,e,Informativo: valor estimado (e)
+Tântalo,t Ta2O5,China,País,2024,100,e,Informativo: valor estimado (e)
+Tântalo,t Ta2O5,"Congo, D.R.",País,2020,600,r,
+Tântalo,t Ta2O5,"Congo, D.R.",País,2021,720,r,
+Tântalo,t Ta2O5,"Congo, D.R.",País,2022,920,r,
+Tântalo,t Ta2O5,"Congo, D.R.",País,2023,720,r,
+Tântalo,t Ta2O5,"Congo, D.R.",País,2024,1140,r,
+Tântalo,t Ta2O5,Ethiopia,País,2020,41,r,
+Tântalo,t Ta2O5,Ethiopia,País,2021,64,r,
+Tântalo,t Ta2O5,Ethiopia,País,2022,90,r,
+Tântalo,t Ta2O5,Ethiopia,País,2023,120,r,
+Tântalo,t Ta2O5,Ethiopia,País,2024,210,r,
+Tântalo,t Ta2O5,Malaysia,País,2020,1,e,Informativo: valor estimado (e)
+Tântalo,t Ta2O5,Malaysia,País,2021,1,e,Informativo: valor estimado (e)
+Tântalo,t Ta2O5,Malaysia,País,2022,4,e,Informativo: valor estimado (e)
+Tântalo,t Ta2O5,Malaysia,País,2023,5,e,Informativo: valor estimado (e)
+Tântalo,t Ta2O5,Malaysia,País,2024,5,e,Informativo: valor estimado (e)
+Tântalo,t Ta2O5,Mozambique,País,2020,94,r,
+Tântalo,t Ta2O5,Mozambique,País,2021,75,r,
+Tântalo,t Ta2O5,Mozambique,País,2022,84,r,
+Tântalo,t Ta2O5,Mozambique,País,2023,82,r,
+Tântalo,t Ta2O5,Mozambique,País,2024,56,r,
+Tântalo,t Ta2O5,Namibia,País,2020,,r,
+Tântalo,t Ta2O5,Namibia,País,2021,,r,
+Tântalo,t Ta2O5,Namibia,País,2022,,r,
+Tântalo,t Ta2O5,Namibia,País,2023,0,r,
+Tântalo,t Ta2O5,Namibia,País,2024,5,r,
+Tântalo,t Ta2O5,Nigeria,País,2020,80,e,Informativo: valor estimado (e)
+Tântalo,t Ta2O5,Nigeria,País,2021,160,e,Informativo: valor estimado (e)
+Tântalo,t Ta2O5,Nigeria,País,2022,150,e,Informativo: valor estimado (e)
+Tântalo,t Ta2O5,Nigeria,País,2023,190,e,Informativo: valor estimado (e)
+Tântalo,t Ta2O5,Nigeria,País,2024,190,e,Informativo: valor estimado (e)
+Tântalo,t Ta2O5,Russia,País,2020,60,r,
+Tântalo,t Ta2O5,Russia,País,2021,39,r,
+Tântalo,t Ta2O5,Russia,País,2022,24,r,
+Tântalo,t Ta2O5,Russia,País,2023,34,r,
+Tântalo,t Ta2O5,Russia,País,2024,30,r,
+Tântalo,t Ta2O5,Rwanda,País,2020,240,r,
+Tântalo,t Ta2O5,Rwanda,País,2021,245,r,
+Tântalo,t Ta2O5,Rwanda,País,2022,300,r,
+Tântalo,t Ta2O5,Rwanda,País,2023,475,r,
+Tântalo,t Ta2O5,Rwanda,País,2024,545,r,
+Tântalo,t Ta2O5,Sierra Leone,País,2020,29,e,Informativo: valor estimado (e)
+Tântalo,t Ta2O5,Sierra Leone,País,2021,36,e,Informativo: valor estimado (e)
+Tântalo,t Ta2O5,Sierra Leone,País,2022,17,e,Informativo: valor estimado (e)
+Tântalo,t Ta2O5,Sierra Leone,País,2023,22,e,Informativo: valor estimado (e)
+Tântalo,t Ta2O5,Sierra Leone,País,2024,20,e,Informativo: valor estimado (e)
+Tântalo,t Ta2O5,Spain,País,2020,16,r,
+Tântalo,t Ta2O5,Spain,País,2021,19,r,
+Tântalo,t Ta2O5,Spain,País,2022,19,r,
+Tântalo,t Ta2O5,Spain,País,2023,24,r,
+Tântalo,t Ta2O5,Spain,País,2024,0,r,
+Tântalo,t Ta2O5,Total mundial,Total mundial,2020,1705,,
+Tântalo,t Ta2O5,Total mundial,Total mundial,2021,1975,,
+Tântalo,t Ta2O5,Total mundial,Total mundial,2022,2118,,
+Tântalo,t Ta2O5,Total mundial,Total mundial,2023,2201,,
+Tântalo,t Ta2O5,Total mundial,Total mundial,2024,2776,,
